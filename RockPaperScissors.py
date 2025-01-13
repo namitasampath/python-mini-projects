@@ -32,7 +32,7 @@ if user_input >=0 and user_input<=2:
     print(game_img[user_input])
 computer_choice=random.randint(0,2)
 print(f"Computer choice is : {computer_choice}")
-print(game_img[user_input])
+print(game_img[computer_choice])
 
 if user_input == 0 and computer_choice == 2:
     print("You win")
@@ -44,4 +44,5 @@ elif user_input > computer_choice:
     print("You win")
 elif computer_choice==user_input:
     print("Draw")
+
 
