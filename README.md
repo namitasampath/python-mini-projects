@@ -1,1 +1,3 @@
-A collection of python beginner friendly projects I've learnt with Udemy's 100 days of python course :)
+# 🐍 Python Learning Journey
+
+🚀 This is where I upload small projects and concepts I learn as I explore Python programming.
