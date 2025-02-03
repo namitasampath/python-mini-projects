@@ -1,7 +1,7 @@
 import cv2 as cv
 import mediapipe as mp
 import numpy as np
-import random
+
 
 mp_hand = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
